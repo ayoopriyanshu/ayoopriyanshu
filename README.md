@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayoopriyanshu&label=Profile%20views&color=0e75b6&style=flat" alt="ayoopriyanshu" /> </p>
 
-- 📫 How to reach me  **priyanshusharma3377@gmail.com**
+- 📫 mail me @  **priyanshusharma3377@gmail.com**
 
 - 📄 Resume:  [https://docs.google.com/document/d/1AGLRTvNSLjEFcXsw54LnRau6CFiEs7Kq/edit?usp=drive_link](https://docs.google.com/document/d/1AGLRTvNSLjEFcXsw54LnRau6CFiEs7Kq/edit?usp=drive_link)
 
