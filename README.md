@@ -5,7 +5,7 @@
 
 - 📫 mail me @  **priyanshusharma3377@gmail.com**
 
-- 📄 Resume:  [https://docs.google.com/document/d/1AGLRTvNSLjEFcXsw54LnRau6CFiEs7Kq/edit?usp=drive_link](https://drive.google.com/drive/folders/1-9Kvrtrd7NAFZJeeqOeTXa9Jh12yOxqZ?usp=drive_link)
+- 📄 Resume:  [Drive link](https://drive.google.com/drive/folders/1-6y_YkDTsSdEoQ88_zSnXXzRMr3k9fJI)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
