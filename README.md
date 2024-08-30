@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Priyanshu Sharma</h1>
-<h3 align="center">Learning everyday about development and security</h3>
+<h3 align="center">Learning about development and security everyday</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayoopriyanshu&label=Profile%20views&color=0e75b6&style=flat" alt="ayoopriyanshu" /> </p>
 
