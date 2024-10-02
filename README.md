@@ -5,9 +5,10 @@
 
 - 📫 mail me @  **priyanshusharma3377@gmail.com**
 
-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MitkoVtori&include_all_commits=true&theme=aura)](https://github.com/ayoopriyanshu/github-readme-stats)
-
 - 📄 Resume:  [Drive link](https://drive.google.com/drive/folders/1-6y_YkDTsSdEoQ88_zSnXXzRMr3k9fJI)
+
+[![Priyanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=MitkoVtori&include_all_commits=true&theme=aura)](https://github.com/ayoopriyanshu/github-readme-stats)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
